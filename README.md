@@ -1,2 +1,0 @@
-# photoDataPagnationFiltrationApp_P2
-Treehouse-Techdegree-Project2-photoPagnationFiltrationApp
